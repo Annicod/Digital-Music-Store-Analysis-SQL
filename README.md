@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis-
+# Pizza-Sales-Analysis Using SQL-
 The Digital Music Store Analysis project aims to explore and analyze a comprehensive music database using SQL queries.The project involves extracting insights from the dataset, which comprises ten tables containing detailed information about albums, artists, customers, employees, invoices, invoice lines, media types, playlists, playlist tracks, and tracks.
 
 
